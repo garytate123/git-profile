@@ -7,7 +7,7 @@
 
 .home {
   height: 100%;
-  padding-top: 40vh;
+  padding-top: 30vh;
   overflow: hidden;
   -webkit-box-align: center;
       -ms-flex-align: center;
@@ -191,7 +191,7 @@
 }
 
 .about__bio-image {
-  height: 50vh;
+  height: 40vh;
   width: 100%;
   background-size: cover;
   display: -webkit-box;
@@ -263,7 +263,7 @@
 
 .contact {
   height: 100%;
-  padding-top: 40vh;
+  padding-top: 30vh;
   overflow: hidden;
   display: -webkit-box;
   display: -ms-flexbox;
