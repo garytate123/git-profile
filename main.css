@@ -7,14 +7,18 @@
 
 .home {
   height: 100%;
+<<<<<<< HEAD
   padding-top: 30vh;
+=======
+  padding-top: 25vh;
+>>>>>>> d30fe931a3e97339e30e2dbfb5ff138670c57d66
   overflow: hidden;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  background: -webkit-gradient(linear, right top, left top, from(#272727), to(rgba(39, 39, 39, 0.7))), url("../public/images/gary.jpg") left top;
-  background: linear-gradient(to left, #272727, rgba(39, 39, 39, 0.7)), url("../public/images/gary.jpg") left top;
+  
+  background: linear-gradient(to left, #272727, rgba(39, 39, 39, 0.7)), url("public/images/gary.jpg") left top;
   background-size: 35%;
   background-repeat: no-repeat;
 }
@@ -191,7 +195,11 @@
 }
 
 .about__bio-image {
+<<<<<<< HEAD
   height: 40vh;
+=======
+  height: 35vh;
+>>>>>>> d30fe931a3e97339e30e2dbfb5ff138670c57d66
   width: 100%;
   background-size: cover;
   display: -webkit-box;
