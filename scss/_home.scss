@@ -28,3 +28,15 @@
     }
   }
 }
+
+button{
+  border: 1px solid white;
+  color: white;
+  background-color: $primary-color;
+  padding: 10px;
+  border-radius: 5px;
+}
+button:hover{
+  background-color: white;
+  color: $primary-color;
+}

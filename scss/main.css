@@ -31,6 +31,19 @@
   font-weight: 700;
 }
 
+button {
+  border: 1px solid white;
+  color: white;
+  background-color: #272727;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: white;
+  color: #272727;
+}
+
 .menu-btn {
   position: absolute;
   z-index: 1;
