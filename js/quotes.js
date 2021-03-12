@@ -26,9 +26,9 @@ let quotes = [
 
 // var quote = quotes[Math.floor(math.random() = Math.floor(quotes,length))];
 
-let qoute = quotes[Math.floor(Math.random() * quotes.length)];
+let quote = quotes[Math.floor(Math.random() * quotes.length)];
 
-document.getElementById("quote").innerHTML = qoute;
+document.getElementById("quote").innerHTML = quote;
 
 
 
