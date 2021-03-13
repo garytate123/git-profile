@@ -7,7 +7,7 @@
 
 .home {
   height: 100%;
-  padding-top: 30vh;
+  padding-top: 25vh;
   overflow: hidden;
   -webkit-box-align: center;
       -ms-flex-align: center;
@@ -275,7 +275,7 @@ button:hover {
 }
 
 .projects__bio-image {
-  height: 30vh;
+  height: 40vh;
   width: 100%;
   background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("../img/model-1.jpg") center top;
   background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../img/model-1.jpg") center top;
@@ -387,7 +387,7 @@ button:hover {
 
 .contact {
   height: 100%;
-  padding-top: 40vh;
+  padding-top: 25vh;
   overflow: hidden;
   display: -webkit-box;
   display: -ms-flexbox;
