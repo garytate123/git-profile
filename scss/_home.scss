@@ -6,15 +6,15 @@
   overflow: hidden;
   align-items: center;
   text-align: center;
-  background: 
-    linear-gradient(
-      to left,
-      rgba($primary-color, 1),
-      rgba($primary-color, 0.7)
-    ),
-    url('../public/images/gary.jpg') left top;
-  background-size: 35%;
-  background-repeat: no-repeat;
+  // background: 
+  //   linear-gradient(
+  //     to left,
+  //     rgba($primary-color, 1),
+  //     rgba($primary-color, 0.7)
+  //   ),
+  //   url('../public/images/gary.jpg') left top;
+  // background-size: 35%;
+  // background-repeat: no-repeat;
 
   &__name {
     font-size: 5rem;

@@ -13,10 +13,6 @@
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  background: -webkit-gradient(linear, right top, left top, from(#272727), to(rgba(39, 39, 39, 0.7))), url("../public/images/gary.jpg") left top;
-  background: linear-gradient(to left, #272727, rgba(39, 39, 39, 0.7)), url("../public/images/gary.jpg") left top;
-  background-size: 35%;
-  background-repeat: no-repeat;
 }
 
 .home__name {
