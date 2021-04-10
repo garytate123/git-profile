@@ -19,7 +19,6 @@
 
     .text-secondary {
       font-size: 2rem;
-      margin-bottom: 2rem;
     }
   }
 
@@ -98,4 +97,8 @@
       translate(-3rem, -5rem);
   }
   
+}
+.projects-title{
+  text-align: center;
+  z-index: 9;
 }

@@ -297,7 +297,6 @@ button:hover {
 
 .projects__bio-image .text-secondary {
   font-size: 2rem;
-  margin-bottom: 2rem;
 }
 
 .projects__items {
@@ -383,6 +382,11 @@ button:hover {
 .projects footer {
   -webkit-transform: rotate(90deg) translate(-3rem, -5rem);
           transform: rotate(90deg) translate(-3rem, -5rem);
+}
+
+.projects-title {
+  text-align: center;
+  z-index: 9;
 }
 
 .contact {
