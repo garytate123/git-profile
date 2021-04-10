@@ -58,8 +58,8 @@
   top: 0;
   left: 0;
   width: 100vw;
-  opacity: 0.95;
   visibility: hidden;
+  background-color: $primary-color;
 
   &.open {
     visibility: visible;
