@@ -4,7 +4,7 @@
 
 <br>
 
-[Gary Tate Web Dev Profile](https://garytate123.github.io/git-profile/)
+[Gary Tate Web Dev Profile](https://garytate123.github.io/Gary-Tate-Portfolio/)
 
 <br>
 
@@ -17,7 +17,7 @@
 
 | Name | Age | Profile |
 | --- | --- | --- |
-| Gary | 41 | [Click here](https://garytate123.github.io/git-profile/) |
+| Gary | 41 | [Click here](https://garytate123.github.io/Gary-Tate-Portfolio/) |
 <br>
 
 ---
@@ -29,7 +29,7 @@ The challenge is from the first session about Version Control using Git and Gith
 
 The challenge is to create a profile page and host it on github pages.
 
-[Gary Tate Web Dev Profile](https://garytate123.github.io/git-profile/)
+[Gary Tate Web Dev Profile](https://garytate123.github.io/Gary-Tate-Portfolio/)
 
 <br>
 
